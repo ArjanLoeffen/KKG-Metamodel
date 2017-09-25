@@ -1,5 +1,5 @@
 # KKG-Metamodel
-Metamoedl Informatiemodelering.
+Metamodel Informatiemodellering.
 Ontwikkeld door KING, Kadaster, Geonovum
 
 Inleidende tekst.
